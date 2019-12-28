@@ -11,9 +11,14 @@ we must see when we run the python questions like
 * please choose day as integer or None
 
 ### Files used
-* washington.csv
-* new_york_city.csv
-* chicago.csv
++ #bikeshare.py
+
++ #washington.csv
+
++ #new_york_city.csv
+
++ #chicago.csv
++
 ### Credits
 i learned so much from this link https://try.github.io/
 i learn the git from https://git-scm.com/docs/git-config
